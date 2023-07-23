@@ -1,2 +1,5 @@
 print("Hello world")
 print("mareer")
+a=24
+b=43
+print(a*b)
