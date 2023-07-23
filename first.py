@@ -1,7 +1,7 @@
 print("Hello world")
 print("mareer")
 
-a=24
+a=54
 b=43
 print(a*b)
 print("this me")
