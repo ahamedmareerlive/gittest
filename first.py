@@ -6,6 +6,7 @@ b=43
 print(a*b)
 
 print("this me")
+print("hello")
 
 
 
